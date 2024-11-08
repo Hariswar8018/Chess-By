@@ -1,0 +1,2 @@
+-keep class com.adapty.** { *; }
+-dontwarn com.adapty.**
