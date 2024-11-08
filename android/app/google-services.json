@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "47211660382",
+    "project_id": "smartlancer-660d4",
+    "storage_bucket": "smartlancer-660d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47211660382:android:7e747f2519574c487160cf",
+        "android_client_info": {
+          "package_name": "com.example.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47211660382-hs6lu8dv2ghrgk7q05to1aph2j34i6r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chess",
+            "certificate_hash": "a3226326da87596c5419e875cf5ad898dfdb3899"
+          }
+        },
+        {
+          "client_id": "47211660382-uc0045k5nl4on5q7u02rmvbjsg683ro7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXGhxMDoFkiBKOXzei_L5DbksV0c1ZDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47211660382-gb7pd938np9ah8njuknpphh3a0fhqnt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47211660382-6jc7k336iciaastfbg0hml85q3nndmdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starwish.chessby"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47211660382:android:d38eb3b69408e03c7160cf",
+        "android_client_info": {
+          "package_name": "com.starwish.chessby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47211660382-uc0045k5nl4on5q7u02rmvbjsg683ro7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXGhxMDoFkiBKOXzei_L5DbksV0c1ZDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47211660382-gb7pd938np9ah8njuknpphh3a0fhqnt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47211660382-6jc7k336iciaastfbg0hml85q3nndmdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starwish.chessby"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
